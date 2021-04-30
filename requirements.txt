@@ -1,0 +1,7 @@
+pandas
+matplotlib
+folium
+wordcloud
+bokeh
+geopandas
+numpy
